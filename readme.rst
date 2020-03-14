@@ -6,6 +6,10 @@ Smart PPDB is a New Student Acceptance Application Online. Using Codeigniter 3, 
 This application was developed to make it easier for the data collection of new students, Can be used for kindergarten, elementary, junior high school, high school / vocational school.
 
 ###################
+------------------
+###################
+
+###################
 Apa itu Smart PPDB
 ###################
 
